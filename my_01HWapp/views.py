@@ -12,9 +12,9 @@ def index(request):
             <title>home_page</title>
         </head>
         <body>
-            <h1>It is a main page of my first site/application on <u>Django</u></h1>
-            <p><em>It is next point.<br>it has to be a multiline text to suit the others who checks
-    our(students) homeworks</p>
+            <h1>Здесь будет название приложения</h1>
+            <p>It is a main page of my first site/application on <u>Django</u></p>
+            <p><i>Here I'll write some information<br>about an application<br>but little later</i></p>
         </body>
     </html>"""
     logger.info('home page accessed')
@@ -26,10 +26,10 @@ def about(request):
     <html lang='en'>
         <head>
             <title>home_page</title>
-            Some info about page structure
+            info about page structure
         </head>
         <body>
-            <h1>Заголовок</h1>
+            <h1>Здесь будет что-то обо мне</h1>
             <p>and some more content<br>and more<br>that's it</p>
         </body>
     </html>"""
