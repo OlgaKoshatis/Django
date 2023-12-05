@@ -1,0 +1,11 @@
+INFO 2023-12-06 00:11:55,947 autoreload 3036 3708 Watching for file changes with StatReloader
+INFO 2023-12-06 00:12:23,457 autoreload 3036 3708 D:\STUDY\Django\django_projects\myHWproject\my_01HWapp\views.py changed, reloading.
+INFO 2023-12-06 00:12:27,766 autoreload 3932 6724 Watching for file changes with StatReloader
+WARNING 2023-12-06 00:12:40,989 log 3932 4700 Not Found: /
+WARNING 2023-12-06 00:12:40,998 basehttp 3932 4700 "GET / HTTP/1.1" 404 2405
+WARNING 2023-12-06 00:12:42,146 log 3932 4700 Not Found: /favicon.ico
+WARNING 2023-12-06 00:12:42,171 basehttp 3932 4700 "GET /favicon.ico HTTP/1.1" 404 2456
+INFO 2023-12-06 00:12:52,584 views 3932 4700 home page accessed
+INFO 2023-12-06 00:12:52,595 basehttp 3932 4700 "GET /index/ HTTP/1.1" 200 364
+INFO 2023-12-06 00:13:12,652 views 3932 4700 about page visited
+INFO 2023-12-06 00:13:12,655 basehttp 3932 4700 "GET /about/ HTTP/1.1" 200 296
